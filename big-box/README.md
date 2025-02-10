@@ -2,9 +2,9 @@
 for existing online shopping platform (bigbox.lt)
 
 # Table of Contens:
-* Test Plan
-* Test Cases
-* Bug Reports
+* [Test Plan](https://github.com/grettjott/Manual-Testing/blob/main/big-box/test-plan.md)
+* [Test Cases](
+* [Bug Reports](
 
   
 
