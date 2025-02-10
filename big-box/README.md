@@ -4,7 +4,7 @@ for existing online shopping platform (bigbox.lt)
 ## Table of Contens:
 * [Test Plan](https://github.com/grettjott/Manual-Testing/blob/main/big-box/test-plan.md)
 * [Test Cases](https://github.com/grettjott/Manual-Testing/blob/main/big-box/test-cases.md)
-* [Bug Reports](
+* [Bug Reports](https://github.com/grettjott/Manual-Testing/blob/main/big-box/bug-reports.md)
 
   
 
